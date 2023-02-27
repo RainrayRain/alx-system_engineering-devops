@@ -1,1 +1,1 @@
-conditions and parsing
+add loops conditions and parsing
